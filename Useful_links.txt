@@ -1,0 +1,4 @@
+** Dazzling Puzzles : https://github.com/ecrips/puzzles
+** https://github.com/up-for-grabs/up-for-grabs.net
+** https://github.com/goatshriek/stumpless
+** https://github.com/triplea-game/triplea
