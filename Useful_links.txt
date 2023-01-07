@@ -3,3 +3,16 @@
 ** https://github.com/goatshriek/stumpless
 ** https://github.com/triplea-game/triplea
 ** GPT : https://datachimp.app/blog/the-code-chat-gpt-cant-write/
+** Statistics :
+https://news.columbia.edu/news/top-10-ideas-statistics-ai
+https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57
+http://www.bytemuse.com/post/k-means-clustering-visualization/
+https://r-stat-sc-donnees.github.io/
+https://quentin-duchemin.github.io/ENPC-SDA/content/Chi2Independence/chi2.html
+https://quentin-duchemin.github.io/ENPC-SDA/content/2sampleHomogeneity/tennis.html
+https://quentin-duchemin.github.io/ENPC-SDA/content/FisherStudentTests/workforce.html
+https://quentin-duchemin.github.io/ENPC-SDA/content/2sampleHomogeneityNonPara/kstest.html
+https://quentin-duchemin.github.io/ENPC-SDA/content/Anova/lettuce-plants.html
+https://quentin-duchemin.github.io/ENPC-SDA/content/LogisticRegression/covid.html
+https://www.statisticsdonewrong.com/
+https://gtpb.github.io/PSLS20/
