@@ -16,3 +16,8 @@ https://quentin-duchemin.github.io/ENPC-SDA/content/Anova/lettuce-plants.html
 https://quentin-duchemin.github.io/ENPC-SDA/content/LogisticRegression/covid.html
 https://www.statisticsdonewrong.com/
 https://gtpb.github.io/PSLS20/
+
+**  Neural network from Scratch
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
+https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html
+https://nextjournal.com/gkoehler/pytorch-mnist
