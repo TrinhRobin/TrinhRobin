@@ -21,3 +21,11 @@ https://gtpb.github.io/PSLS20/
 https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
 https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html
 https://nextjournal.com/gkoehler/pytorch-mnist
+
+** Deep 
+- https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce3537
+- https://arxiv.org/abs/1412.6980
+- https://cs231n.github.io/convolutional-networks/
+- https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030
+- https://towardsdatascience.com/convolutional-neural-network-feature-map-and-filter-visualization-f75012a5a49c
+- https://poloclub.github.io/cnn-explainer/
